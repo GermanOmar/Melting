@@ -1,2 +1,8 @@
-# Melting efficiency evaluation in wire arc additive manufacturing: A machine learning approach
+# A machine learning approach for the prediction of melting efficiency in wire arc additive manufacturing
+
+Abstract
+
+Wire arc additive manufacturing (WAAM) appears as one of the most promising technologies due to its capacity to process all types of materials used in welding, its high production rate, and capacity to process large geometries of particular interest in the aeronautical industry. Since this technology is still under investigation, it is important to determine the efficiency of the process; In this sense, the melting efficiency stands out as a parameter of interest not only in energy terms but also as a measure of the stability of the process. For calculating melting efficiency, it is necessary to use tailored colorimeters or apply models requiring specific dimensions that involve destructive testing. For this reason, in the development of this work, the melting efficiency is evaluated through machine learning. Processing parameters such as wire diameter, wire feed speed, travel speed, and net power are used to determine melting efficiency. In addition, a simplified analytical model was developed to compare the results. The average melting efficiency analytically calculated was 44.56 ± 5.48 %, while the predicted value reaches a comparable value of 44.32 ± 4.79 % obtained with the Gaussian process regressor, which shows the highest accuracy. Also, the known relationship with travel speed was verified.
+
+Barrionuevo, G.O., Sequeira-Almeida, P.M., Ríos, S. et al. A machine learning approach for the prediction of melting efficiency in wire arc additive manufacturing. Int J Adv Manuf Technol (2022). https://doi.org/10.1007/s00170-022-08966-y
 
